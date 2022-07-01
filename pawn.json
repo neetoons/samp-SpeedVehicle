@@ -1,0 +1,7 @@
+{
+	"user": "neetoons",
+	"repo": "samp-SpeedVehicle",
+	"tag": "0.2.0",
+	"entry": "test.pwn",
+	"output": "gamemodes/test.amx"
+}
